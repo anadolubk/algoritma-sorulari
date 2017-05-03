@@ -124,7 +124,7 @@ Normal bir satranç tahtasında 8 vezir birbirlerini tehdit etmeden kaç farklı
 ## 20. Soru
 Kullanıcıdan aldığınız en ve boy'a göre bir dikdörtgen oluşturup bu dikdörtgenin alanını bulunuz.
 
-## 21. Soru
+## 21. Soru
 20\. soruda oluşturulan dikdörtgenin 2 eş parçaya bölündüğünü ve bölünen parçalardan birinin asıl dikdörtgenimiz olarak belirlendiğini düşünelim. Bu yaptığımız işlemin 10 kere yapılması sonucu elimizde kalan son dikdörtgenin alanını bulunuz.
 
 _Not:
@@ -144,10 +144,10 @@ en=4 boy=0.015625 alan=0.0625
 en=4 boy=0.0078125 alan=0.03125
 ```
 
-## 22. Soru
+## 22. Soru
 21\. soruda sorulan işlemi kendinden bir büyük dikdörtgenin alanıyla kendi alanının farkı 0.0001 olana kadar tekrarlayın. Kullanıcının girdiği dikdörtgeni kaç kere parçaladığınızı ekrana yazdırınız.
 
-## 23. Soru
+## 23. Soru
 21\. soruda verilen örneğe baktığımızda dörtgeni her seferinde boydan 2'ye bölüp tekrar sonucu bulmuşuz. bunu yaptığımızda her seferinde dikdörtgenin üst parçasını bölmüş oluyoruz. 21. soruda yaptığımız işlemi dikdörtgenin alt kısımları için de tekrarlayalım.
 
 _Not:
